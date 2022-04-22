@@ -1,5 +1,7 @@
 # campeonato-brasileiro
 
+:soccer: Esse projeto foi desenvolvido durante um treinamento de Vue.
+
 ## Project setup
 ```
 npm install
